@@ -1,0 +1,23 @@
+{
+  "name": "appsalud",
+  "version": "1.0.0",
+  "description": "Ejemplo automatizacion pruebas software",
+  "main": "main.js",
+  "scripts": {
+    "test": "mocha Integracion/*"
+    
+  },
+  "keywords": [
+    "javascript",
+    "mocha",
+    "chai",
+    "pruebas",
+    "appSalud"
+  ],
+  "author": "Antonio Camarena Ivars",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.3.4",
+    "mocha": "^9.1.3"
+  }
+}
